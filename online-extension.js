@@ -71,7 +71,7 @@
     .config(function($routeProvider) {
       $routeProvider
         .when('/about', {
-          templateUrl: 'online/ui/custom-templates/about.html',
+          templateUrl: 'https://github.com/sanster23/ocp-web-cocnsole-extensions/blob/master/hello-world.html',
           controller: 'AboutController'
         });
     })
